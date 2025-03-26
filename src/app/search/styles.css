@@ -1,0 +1,7 @@
+.ais-Hits .ais-Hits-list {
+	@apply grid grid-cols-2;
+}
+
+.ais-SearchBox-input {
+	@apply p-1;
+}
